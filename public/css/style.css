@@ -1,0 +1,14 @@
+input[type="checkbox"] {
+	box-shadow: none;
+	-webkit-box-shadow: none;
+	width: 20px;
+}
+
+input[type="checkbox"]:active {
+	box-shadow: none;
+	-webkit-box-shadow: none;
+}
+input[type="checkbox"]:focus {
+	box-shadow: none;
+	-webkit-box-shadow: none;
+}
